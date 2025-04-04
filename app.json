@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "chatgpt-app-react-native",
-    "slug": "chatgpt-app-react-native",
+    "name": "app-react-native",
+    "slug": "app-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

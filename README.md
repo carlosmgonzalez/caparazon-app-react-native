@@ -1,50 +1,15 @@
-# Welcome to your Expo app 👋
+# Caparazon para una aplicacion con Expo - React Native.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+En este cascaron ya esta configurado nativewind y expo-router.
 
-## Get started
+## Iniciar proyecto:
 
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1. Clonar el repositorio.
+2. Debes entrar a app.json y cambiar el nombre de la app y el slug.
+3. Cambia el nombre de la app en el package.json.
+4. Instalar dependencias con `npm install`.
+5. Iniciar el proyecto con `npm expo start`.
+6. Abrir el emulador de Android o iOS.
+7. Abrir la app Expo Go en el emulador o en tu dispositivo movil.
+8. Escanear el QR que aparece en la terminal o en la pagina web que se abre.
+9. Listo, ya puedes empezar a desarrollar tu app.
